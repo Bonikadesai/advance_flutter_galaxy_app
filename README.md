@@ -1,5 +1,22 @@
 # Galaxy Planets
 
+## Project Definition: 
+
+Galaxy Planets (Animator)
+
+## Project Description:
+
+"Galaxy Planets (Animator)" is an exciting mobile application built using Flutter, focusing on
+creating captivating animations. The app incorporates concepts such as Implicit Animation and
+Explicit Animation, along with additional features like Shared Preferences and Local JSON
+Bank. It offers a range of functionalities designed to provide users with an immersive and
+visually stunning experience.
+"Galaxy Planets (Animator)" aims to deliver an engaging and visually appealing animation
+experience for users. By incorporating Implicit and Explicit Animation techniques, along with
+Shared Preferences, a Local JSON Bank, fetching planet details, saving favorites, light and dark
+themes, a splash screen, and detailed planet screens, the app offers a comprehensive solution for
+users to explore the wonders of the galaxy through captivating animations.
+
 ## Project Objectives :
 
 - Implicit Animation : The app utilizes Implicit Animation techniques to create smooth and
